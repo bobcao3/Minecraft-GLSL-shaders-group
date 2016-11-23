@@ -1,4 +1,4 @@
-# SSEDAA
+# TMSAA
 
 Multisample AA
 
